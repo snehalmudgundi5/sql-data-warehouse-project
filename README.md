@@ -89,3 +89,20 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 
 
+🛡️ License
+
+This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+
+🌟 About Me
+
+Hi There! i am an Aspiring Data Analyst passionate about data cleaning, visualization, and storytelling. Building projects with Python, SQL, Excel, and Power BI while continuously learning and growing.
+
+
+
+
+
+
+
+
+
+
